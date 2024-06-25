@@ -1,4 +1,4 @@
-# TarotAI
+# TalentTarot
 ✨ Build a Tarot Testing and Reading website.
 
 ## Business Idea：
