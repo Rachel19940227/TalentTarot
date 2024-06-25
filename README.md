@@ -1,5 +1,9 @@
 # TarotAI
 ✨ Build a Tarot Testing and Reading website.
+
+## Business Idea：
+Create a website and app featuring a simple interface that uses virtual Tarot cards for online readings. By integrating AI technology, we aim to make the Tarot reading process and interpretation more professional and accurate.
+
 ## Function
 
 <p align="center">
