@@ -4,9 +4,9 @@
 ## Business Idea：
 Create a website and app featuring a simple interface that uses virtual Tarot cards for online readings. By integrating AI technology, we aim to make the Tarot reading process and interpretation more professional and accurate.
 
-# Design tools: Figma
-# Front-end: React Native
-# Back-end: MySQL etc..
+<p> Design tools: Figma </p>
+<p> Front-end: React Native </p>
+<p> Back-end: MySQL etc.. </p>
 
 ## Function
 
